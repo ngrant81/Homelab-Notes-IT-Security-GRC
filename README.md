@@ -1,4 +1,3 @@
-# Homelab-Notes-IT-Security-GRC
 # IT & Cybersecurity Portfolio 
 ## About Me
 Aspiring IT and Cybersecurity Professional
@@ -24,12 +23,12 @@ Aspiring IT and Cybersecurity Professional
 ---
 
 ## Homelab Projects
-- (Coming soon)
+- [View Projects](./homelabs/)
 
 ---
 
-##GRC Projects
-- (Coming soon)
+## GRC Projects
+- [View Projects](./grc/)
 
 ---
 
