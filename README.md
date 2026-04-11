@@ -13,8 +13,8 @@ Aspiring IT and Cybersecurity Professional
 ---
 
 ## A+ Study Notes
-- [Core 1](./a-plus/core-1/)
-- [Core 2](./a-plus/core-2/)
+- [Core 1]( ./a-plus/core-1/)
+- [Core 2]( ./a-plus/core-2/)
 
 ---
 
