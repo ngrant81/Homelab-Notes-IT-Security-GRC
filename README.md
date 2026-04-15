@@ -1,13 +1,13 @@
-# IT & Cybersecurity Portfolio 
+# IT Portfolio 
 ## About Me
-Aspiring IT and Cybersecurity Professional
+Aspiring IT Professional
 
 ---
 
 ## Certifications (In Progress) 
 -CompTIA A+ Core 1
 -CompTIA A+ Core 2 (Planned)
--Security + 
+-CompTIA Network+
 
 ---
 
@@ -29,5 +29,5 @@ Aspiring IT and Cybersecurity Professional
 
 ## Goals
 -Build strong IT fundamentals
--Transition into Cybersecurity/IT
+-Transition into IT Administration
 -Develop real-world, documented experience
