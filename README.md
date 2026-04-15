@@ -34,5 +34,5 @@ Aspiring IT and Cybersecurity Professional
 
 ## Goals
 -Build strong IT fundamentals
--Transition into Cybersecurity (&GRC)
+-Transition into Cybersecurity/IT
 -Develop real-world, documented experience
