@@ -11,24 +11,19 @@ Aspiring IT and Cybersecurity Professional
 
 ---
 
-## A+ Study Notes
+## A+ Notes
 - [Core 1](./a-plus/core-1/)
 - [Core 2](./a-plus/core-2/)
 
 ---
 
-## Security+ Study Notes
--[Security+](./security-plus/)
+## Network+ Notes
+-[Network+ Study & Labs](./network-plus)
 
 ---
 
-## Homelab Projects
-- [View Projects](./homelabs/)
-
----
-
-## GRC Projects
-- [View Projects](./grc/)
+## IT 
+- [General IT Labs](./general-it-labs/)
 
 ---
 
